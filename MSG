@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Accusé de réception</title>
+  <script>
+    window.onload = function() {
+      alert("Merci d'avoir confirmé la lecture de ce message. Votre réponse a bien été prise en compte.");
+    };
+  </script>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; padding-top: 50px;">
+  <h1>Message confirmé</h1>
+  <p>Votre accusé de réception a bien été enregistré.</p>
+</body>
+</html>
